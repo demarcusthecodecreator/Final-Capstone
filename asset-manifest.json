@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Final-Capstone/static/css/main.e27ac90c.chunk.css",
+    "main.js": "/Final-Capstone/static/js/main.c4b6061d.chunk.js",
+    "main.js.map": "/Final-Capstone/static/js/main.c4b6061d.chunk.js.map",
+    "runtime-main.js": "/Final-Capstone/static/js/runtime-main.a3e69cdd.js",
+    "runtime-main.js.map": "/Final-Capstone/static/js/runtime-main.a3e69cdd.js.map",
+    "static/js/2.ec136603.chunk.js": "/Final-Capstone/static/js/2.ec136603.chunk.js",
+    "static/js/2.ec136603.chunk.js.map": "/Final-Capstone/static/js/2.ec136603.chunk.js.map",
+    "index.html": "/Final-Capstone/index.html",
+    "static/css/main.e27ac90c.chunk.css.map": "/Final-Capstone/static/css/main.e27ac90c.chunk.css.map",
+    "static/js/2.ec136603.chunk.js.LICENSE.txt": "/Final-Capstone/static/js/2.ec136603.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e69cdd.js",
+    "static/js/2.ec136603.chunk.js",
+    "static/css/main.e27ac90c.chunk.css",
+    "static/js/main.c4b6061d.chunk.js"
+  ]
+}
